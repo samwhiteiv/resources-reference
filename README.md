@@ -1,16 +1,30 @@
 A Collecton of Design & Development Resources
 =============
 
+## Frameworks
+- Docusauraus: https://docusaurus.io/
+- Gatsby: 
+- Responsive: https://github.com/responsivebp/responsive
+
+## CMS
+- Strapi: https://strapi.io/
+
+## Tools
+- 
+
+## Tutorials 
+- 
+
 ## Assets
 
 ### Free Public Videos
-http://mazwai.com/  
+- http://mazwai.com/  
 
 ### Free Stock Photos
-http://unsplash.com/  
-http://littlevisuals.co/  
-http://nos.twnsnd.co/  
-http://superfamous.com/  
+- http://unsplash.com/  
+- http://littlevisuals.co/  
+- http://nos.twnsnd.co/  
+- http://superfamous.com/  
 http://www.gratisography.com/  
 http://getrefe.tumblr.com/  
 http://www.imcreator.com/free  
@@ -33,8 +47,6 @@ https://newcss.net/
 http://tympanus.net/codrops/css_reference/
 http://projects.lukehaas.me/css-loaders/
 
-### Frameworks
-https://github.com/responsivebp/responsive
 
 ### Favicon Generator
 http://realfavicongenerator.net/
@@ -44,8 +56,6 @@ http://www.transformicons.com/
 
 ### Hosting
 http://www.divshot.com/
-
-## Turotials 
 
 ### Misc. 
 - PWA: https://www.smashingmagazine.com/2018/11/guide-pwa-progressive-web-applications/
